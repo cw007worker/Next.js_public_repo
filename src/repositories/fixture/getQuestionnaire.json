@@ -1,0 +1,113 @@
+{
+  "questionnaire": {
+    "id": 6,
+    "name": "メンバシップ解約アンケート",
+    "questions": [
+      {
+        "id": 3,
+        "body": "解約する理由を選択してください",
+        "allow_multiple_choice": true,
+        "required": true,
+        "has_other": true,
+        "order_index": 1,
+        "choices": [
+          {
+            "id": 7,
+            "content": "商品/ブランド数が少ないから（欲しいものがなかったから）",
+            "is_other": false
+          },
+          {
+            "id": 8,
+            "content": "もう当分買うものがないから",
+            "is_other": false
+          },
+          {
+            "id": 9,
+            "content": "機能面で使いづらいから",
+            "is_other": false
+          },
+          {
+            "id": 10,
+            "content": "配送が遅かったから",
+            "is_other": false
+          },
+          {
+            "id": 11,
+            "content": "その他",
+            "is_other": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "body": "今後またpantriiを利用したいと思いますか？",
+        "allow_multiple_choice": false,
+        "required": true,
+        "has_other": false,
+        "order_index": 2,
+        "choices": [
+          {
+            "id": 12,
+            "content": "利用したい",
+            "is_other": false
+          },
+          {
+            "id": 13,
+            "content": "どちらかと言えば利用したい",
+            "is_other": false
+          },
+          {
+            "id": 14,
+            "content": "わからない",
+            "is_other": false
+          },
+          {
+            "id": 15,
+            "content": "どちらかと言えば利用したいと思わない",
+            "is_other": false
+          },
+          {
+            "id": 16,
+            "content": "利用したいと思わない",
+            "is_other": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "body": "ご家族や友人にすすめたいと思いますか？",
+        "allow_multiple_choice": false,
+        "required": true,
+        "has_other": false,
+        "order_index": 3,
+        "choices": [
+          {
+            "id": 17,
+            "content": "勧めたい",
+            "is_other": false
+          },
+          {
+            "id": 18,
+            "content": "どちらかと言えば勧めたい",
+            "is_other": false
+          },
+          {
+            "id": 19,
+            "content": "わからない",
+            "is_other": false
+          },
+          {
+            "id": 20,
+            "content": "どちらかと言えば勧めたいと思わない",
+            "is_other": false
+          },
+          {
+            "id": 21,
+            "content": "勧めたいと思わない",
+            "is_other": false
+          }
+        ]
+      }
+    ]
+  }
+}

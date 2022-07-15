@@ -1,0 +1,57 @@
+{
+  "categories": [
+    {
+      "id": 13,
+      "name": "スキンケア",
+      "image_url": "",
+      "data": [
+        { "id": 190, "name": "クレンジング", "image_url": "" },
+        { "id": 191, "name": "洗顔料", "image_url": "" },
+        { "id": 192, "name": "化粧水", "image_url": "" },
+        { "id": 193, "name": "乳液", "image_url": "" },
+        { "id": 194, "name": "美容液/オイル/クリーム", "image_url": "" },
+        { "id": 195, "name": "コットンパフ", "image_url": "" },
+        { "id": 196, "name": "まつ毛/アイケア", "image_url": "" },
+        {
+          "id": 197,
+          "name": "フェイススクラブ/ピーリング",
+          "image_url": ""
+        },
+        { "id": 198, "name": "パック/フェイスマスク", "image_url": "" },
+        { "id": 199, "name": "オールインワンケア", "image_url": "" }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "ベースメイク",
+      "image_url": "",
+      "data": [
+        { "id": 200, "name": "化粧下地", "image_url": "" },
+        { "id": 201, "name": "ファンデーション", "image_url": "" },
+        { "id": 202, "name": "ファイスパウダー", "image_url": "" },
+        { "id": 203, "name": "コンシーラー", "image_url": "" },
+        { "id": 204, "name": "BB/CCクリーム", "image_url": "" }
+      ]
+    },
+    {
+      "id": 189,
+      "name": "メイクアップ",
+      "image_url": "",
+      "data": [
+        { "id": 14, "name": "チーク", "image_url": "" },
+        { "id": 22, "name": "マスカラ", "image_url": "" },
+        { "id": 27, "name": "アイライナー", "image_url": "" },
+        { "id": 32, "name": "アイブロウ", "image_url": "" },
+        { "id": 81, "name": "アイシャドウ", "image_url": "" },
+        { "id": 84, "name": "リップクリーム", "image_url": "" },
+        { "id": 106, "name": "リップ/口紅", "image_url": "" },
+        { "id": 183, "name": "ハイライト", "image_url": "" }
+      ]
+    },
+    {
+      "id": 182,
+      "name": "フレグランス",
+      "image_url": ""
+    }
+  ]
+}

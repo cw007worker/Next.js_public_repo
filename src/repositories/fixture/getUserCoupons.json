@@ -1,0 +1,50 @@
+{
+  "active_coupons": [
+    {
+      "id": "v_mZ5N4DnnQIMtqXmfBxSrTvZ84U3uZuO1",
+      "code": "Vcsava",
+      "active": true,
+      "campaign_name": "友達紹介報酬",
+      "discount_type": "PERCENT",
+      "discount": {
+        "type": "PERCENT",
+        "percent_off": 10,
+        "effect": "APPLY_TO_ITEMS"
+      },
+      "start_date": "2022-01-01T00:00",
+      "expiration_date": "2022-01-26T00:00"
+    },
+    {
+      "id": "v_mZ5N4DnnQIMtqXmfBxSrTvZ84U3uZuO2",
+      "code": "KvtHLS",
+      "active": true,
+      "campaign_name": "友達紹介報酬",
+      "type": "DISCOUNT_VOUCHER",
+      "discount_type": "AMOUNT",
+      "discount": {
+        "type": "AMOUNT",
+        "amount_off": 500,
+        "effect": "APPLY_TO_ITEMS"
+      },
+      "start_date": "2022-01-01T00:00",
+      "expiration_date": "2022-02-22T00:00"
+    }
+  ],
+  "inactive_coupons": [
+    {
+      "id": "v_mZ5N4DnnQIMtqXmfBxSrTvZ84U3uZuO2",
+      "code": "KvtHLS",
+      "active": true,
+      "campaign_name": "友達紹介報酬",
+      "type": "DISCOUNT_VOUCHER",
+      "discount_type": "AMOUNT",
+      "discount": {
+        "type": "AMOUNT",
+        "amount_off": 1000,
+        "effect": "APPLY_TO_ITEMS"
+      },
+      "start_date": "2022-01-10T00:00",
+      "expiration_date": "2022-01-22T00:00"
+    }
+  ]
+}

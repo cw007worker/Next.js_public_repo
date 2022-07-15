@@ -1,0 +1,110 @@
+{
+  "id": 1,
+  "name": "【M･A･C /マック】グロー プレイ ブラッシュ",
+  "description": "『25ans（ヴァンサンカン）』【2020年ベストコスメ】ビューティ・メダリスト2020　華やかビューティ部門　Silver Prize 受賞\n\n弾力のあるユニークなテクスチャーの「グロー プレイ ブラッシュ」。指やブラシで簡単にブレンド可能でなめらかなツヤと輝きを演出。シアー?ミディアムまで自在に仕上がりを楽しんで。\n8時間化粧持ち*\n\n*化粧もち(薄れ)データ取得済み (当社調べ。効果には個人差があります)\n\n【製品の特徴・特性】\n・軽いつけ心地で弾力のあるテクスチャー\n・ロングウェアリング\n・輝きをプラス\n・デリケートなお肌のことも考えてつくられています。\n\n【使用方法】\n指先、または#159S デュオ ファイバー ブラッシュ ブラシ、で顔に塗布します。\n\n※商品の改良等により成分や原産国等の表示内容が変更になる場合があります。実際の成分や原産国は商品の表示をご確認ください。",
+  "has_size": false,
+  "has_variety": true,
+  "image_urls": [
+    "https://c.imgz.jp/742/56427742/56427742b_b_01_500.jpg",
+    "https://c.imgz.jp/742/56427742/56427742b_b_02_500.jpg",
+    "https://c.imgz.jp/742/56427742/56427742b_b_03_500.jpg"
+  ],
+  "units": [
+    {
+      "id": 11,
+      "name": "ソー ナチュラル",
+      "size": null,
+      "variety_kind": "color",
+      "variety": "ソー ナチュラル",
+      "variety_image": "https://o.imgz.jp/742/56427742/56427742_11522_cc.jpg",
+      "image_urls": [
+        "https://c.imgz.jp/742/56427742/56427742b_11522_d_500.jpg"
+      ],
+      "price": 3311,
+      "original_price": 3850,
+      "stock": 5
+    },
+    {
+      "id": 12,
+      "name": "グランド",
+      "size": null,
+      "variety_kind": "color",
+      "variety": "グランド",
+      "variety_image": "https://o.imgz.jp/742/56427742/56427742_11523_cc.jpg",
+      "image_urls": [
+        "https://c.imgz.jp/742/56427742/56427742b_11523_d_500.jpg"
+      ],
+      "price": 3311,
+      "original_price": 3850,
+      "stock": 0
+    },
+    {
+      "id": 13,
+      "name": "チーキー デビル",
+      "size": null,
+      "variety_kind": "color",
+      "variety": "チーキー デビル",
+      "variety_image": "https://o.imgz.jp/742/56427742/56427742_11525_cc.jpg",
+      "image_urls": [
+        "https://c.imgz.jp/742/56427742/56427742b_11525_d_500.jpg"
+      ],
+      "price": 3311,
+      "original_price": 3850,
+      "stock": 5
+    },
+    {
+      "id": 14,
+      "name": "ザッツ ピーチィ",
+      "size": null,
+      "variety_kind": "color",
+      "variety": "ザッツ ピーチィ",
+      "variety_image": "https://o.imgz.jp/742/56427742/56427742_11526_cc.jpg",
+      "image_urls": [
+        "https://c.imgz.jp/742/56427742/56427742b_11526_d_500.jpg"
+      ],
+      "price": 3311,
+      "original_price": 3850,
+      "stock": 5
+    },
+    {
+      "id": 15,
+      "name": "チアー アップ",
+      "size": null,
+      "variety_kind": "color",
+      "variety": "チアー アップ",
+      "variety_image": "https://o.imgz.jp/742/56427742/56427742_11527_cc.jpg",
+      "image_urls": [
+        "https://c.imgz.jp/742/56427742/56427742b_11527_d_500.jpg"
+      ],
+      "price": 3311,
+      "original_price": 3850,
+      "stock": 5
+    },
+    {
+      "id": 16,
+      "name": "トータリー シンクト",
+      "size": null,
+      "variety_kind": "color",
+      "variety": "トータリー シンクト",
+      "variety_image": "https://o.imgz.jp/742/56427742/56427742_11528_cc.jpg",
+      "image_urls": [
+        "https://c.imgz.jp/742/56427742/56427742b_11528_d_500.jpg"
+      ],
+      "price": 3311,
+      "original_price": 3850,
+      "stock": 5
+    },
+    {
+      "id": 17,
+      "name": "ブラッシュ プリーズ",
+      "size": null,
+      "variety_kind": "color",
+      "variety": "ブラッシュ プリーズ",
+      "variety_image": "https://o.imgz.jp/742/56427742/56427742_12769_cc.jpg",
+      "image_urls": ["https://c.imgz.jp/742/56427742/56427742_12769_d_500.jpg"],
+      "price": 3311,
+      "original_price": 3850,
+      "stock": 5
+    }
+  ]
+}

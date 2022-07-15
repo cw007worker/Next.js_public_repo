@@ -1,0 +1,186 @@
+{
+  "id": 1,
+  "name": "豊かな自然から生まれた、まろやかで飲みやすい硬度49㎎/Lの軟水",
+  "description": "豊かな自然から生まれた、まろやかで飲みやすい硬度49㎎/Lの軟水です。飲料水としてだけでなく、水出しやお料理などにお使いいただいても、素材の味を邪魔しません。毎日の生活に欠かせないお水、Happy Belly(ハッピーベリー)岐阜・美濃 天然水を是非お試しください。",
+  "has_size": true,
+  "has_variety": true,
+  "image_urls": null,
+  "units": [
+    {
+      "id": 11,
+      "name": "ブラック/サイズXS",
+      "variety_image": "https://img.ltwebstatic.com/images3_pi/2021/09/30/16329945740f219782026516e965f1e455bc2de6dd.webp",
+      "image_urls": [
+        "https://img.ltwebstatic.com/images3_pi/2021/11/15/1636965051ce9b4d6853a8715ec0445cd66d425eda_thumbnail_750x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/11/15/1636965059a31f5aad6c89aa9af38319c349069ea3_thumbnail_750x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/11/15/1636965073553f9513376cacc6ce49a9d016b770b2_thumbnail_750x.webp"
+      ],
+      "price": 2500,
+      "original_price": 10000,
+      "stock": 5,
+      "size": "XS",
+      "variety_kind": "color",
+      "variety": "ブラック",
+      "discount_rate": 75,
+      "wishlist_id": null
+    },
+    {
+      "id": 12,
+      "name": "アーミーグリーン/サイズXS",
+      "size": "XS",
+      "variety_kind": "color",
+      "variety": "アーミーグリーン",
+      "variety_image": "https://img.ltwebstatic.com/images3_pi/2021/09/30/16329945740f219782026516e965f1e455bc2de6dd.webp",
+      "image_urls": [
+        "https://img.ltwebstatic.com/images3_pi/2021/09/30/1632999432ed2a086da9efa60a4231558371a67d83_thumbnail_750x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/09/30/1632994565c9cc57294d7d89facf2009ca660fcf2c_thumbnail_750x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/09/30/1632994571a449b477a27660bd4a5f15fa43380e28_thumbnail_750x.webp"
+      ],
+      "price": 4500,
+      "original_price": 10000,
+      "stock": 5,
+      "discount_rate": 55,
+      "wishlist_id": null
+    },
+    {
+      "id": 13,
+      "name": "ピンク/サイズXS",
+      "size": "XS",
+      "variety_kind": "color",
+      "variety": "ピンク",
+      "variety_image": "https://img.ltwebstatic.com/images3_pi/2021/09/30/1632994585e6c475ff392995010f96d9871cff5134.webp",
+      "image_urls": [
+        "https://img.ltwebstatic.com/images3_pi/2021/10/08/16336817143c8578f50afe70f9f33afc67d1c3cde0_thumbnail_750x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/09/30/1632994575d9dc6472ab80a855693961cc04ff169b_thumbnail_750x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/09/30/16329945765915fa98c9009c98b89ed52274852096_thumbnail_750x.webp"
+      ],
+      "price": 2300,
+      "original_price": 10000,
+      "stock": 5,
+      "discount_rate": 77,
+      "wishlist_id": null
+    },
+    {
+      "id": 14,
+      "name": "ブラック/サイズS",
+      "size": "S",
+      "variety_kind": "color",
+      "variety": "ブラック",
+      "variety_image": "https://img.ltwebstatic.com/images3_pi/2021/09/30/16329945740f219782026516e965f1e455bc2de6dd.webp",
+      "image_urls": [
+        "https://img.ltwebstatic.com/images3_pi/2021/11/15/1636965051ce9b4d6853a8715ec0445cd66d425eda_thumbnail_750x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/11/15/1636965059a31f5aad6c89aa9af38319c349069ea3_thumbnail_750x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/11/15/1636965073553f9513376cacc6ce49a9d016b770b2_thumbnail_750x.webp"
+      ],
+      "price": 9800,
+      "original_price": 10000,
+      "stock": 5,
+      "discount_rate": 2,
+      "wishlist_id": null
+    },
+    {
+      "id": 15,
+      "name": "アーミーグリーン/サイズS",
+      "size": "S",
+      "variety_kind": "color",
+      "variety": "アーミーグリーン",
+      "variety_image": "https://img.ltwebstatic.com/images3_pi/2021/09/30/16329945740f219782026516e965f1e455bc2de6dd.webp",
+      "image_urls": [
+        "https://img.ltwebstatic.com/images3_pi/2021/09/30/1632999432ed2a086da9efa60a4231558371a67d83_thumbnail_750x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/09/30/1632994565c9cc57294d7d89facf2009ca660fcf2c_thumbnail_750x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/09/30/1632994571a449b477a27660bd4a5f15fa43380e28_thumbnail_750x.webp"
+      ],
+      "price": 9900,
+      "original_price": 10000,
+      "stock": 5,
+      "discount_rate": 1,
+      "wishlist_id": null
+    },
+    {
+      "id": 16,
+      "name": "ピンク/サイズS",
+      "size": "S",
+      "variety_kind": "color",
+      "variety": "ピンク",
+      "variety_image": "https://img.ltwebstatic.com/images3_pi/2021/09/30/1632994585e6c475ff392995010f96d9871cff5134.webp",
+      "image_urls": [
+        "https://img.ltwebstatic.com/images3_pi/2021/10/08/16336817143c8578f50afe70f9f33afc67d1c3cde0_thumbnail_750x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/09/30/1632994575d9dc6472ab80a855693961cc04ff169b_thumbnail_750x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/09/30/16329945765915fa98c9009c98b89ed52274852096_thumbnail_750x.webp"
+      ],
+      "price": 5000,
+      "original_price": 10000,
+      "stock": 5,
+      "discount_rate": 50,
+      "wishlist_id": null
+    },
+    {
+      "id": 17,
+      "name": "ブラック/サイズM",
+      "size": "M",
+      "variety_kind": "color",
+      "variety": "ブラック",
+      "variety_image": "https://img.ltwebstatic.com/images3_pi/2021/09/30/16329945740f219782026516e965f1e455bc2de6dd.webp",
+      "image_urls": [
+        "https://img.ltwebstatic.com/images3_pi/2021/11/15/1636965051ce9b4d6853a8715ec0445cd66d425eda_thumbnail_750x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/11/15/1636965059a31f5aad6c89aa9af38319c349069ea3_thumbnail_750x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/11/15/1636965073553f9513376cacc6ce49a9d016b770b2_thumbnail_750x.webp"
+      ],
+      "price": 9800,
+      "original_price": 10000,
+      "stock": 5,
+      "discount_rate": 2,
+      "wishlist_id": null
+    },
+    {
+      "id": 18,
+      "name": "アーミーグリーン/サイズM",
+      "size": "M",
+      "variety_kind": "color",
+      "variety": "アーミーグリーン",
+      "variety_image": "https://img.ltwebstatic.com/images3_pi/2021/09/30/16329945740f219782026516e965f1e455bc2de6dd.webp",
+      "image_urls": [
+        "https://img.ltwebstatic.com/images3_pi/2021/09/30/1632999432ed2a086da9efa60a4231558371a67d83_thumbnail_750x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/09/30/1632994565c9cc57294d7d89facf2009ca660fcf2c_thumbnail_750x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/09/30/1632994571a449b477a27660bd4a5f15fa43380e28_thumbnail_750x.webp"
+      ],
+      "price": 9900,
+      "original_price": 10000,
+      "stock": 5,
+      "discount_rate": 2,
+      "wishlist_id": null
+    },
+    {
+      "id": 19,
+      "name": "ピンク/サイズM",
+      "size": "M",
+      "variety_kind": "color",
+      "variety": "ピンク",
+      "variety_image": "https://img.ltwebstatic.com/images3_pi/2021/09/30/1632994585e6c475ff392995010f96d9871cff5134.webp",
+      "image_urls": [
+        "https://img.ltwebstatic.com/images3_pi/2021/10/08/16336817143c8578f50afe70f9f33afc67d1c3cde0_thumbnail_750x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/09/30/1632994575d9dc6472ab80a855693961cc04ff169b_thumbnail_750x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/09/30/16329945765915fa98c9009c98b89ed52274852096_thumbnail_750x.webp"
+      ],
+      "price": 5000,
+      "original_price": 10000,
+      "stock": 5,
+      "discount_rate": 50,
+      "wishlist_id": null
+    }
+  ],
+  "tags": [
+    {
+      "id": 206,
+      "name": "ファッション"
+    },
+    {
+      "id": 209,
+      "name": "財布/小物"
+    },
+    {
+      "id": 208,
+      "name": "COACH"
+    }
+  ]
+}

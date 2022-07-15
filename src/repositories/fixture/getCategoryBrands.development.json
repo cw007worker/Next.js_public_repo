@@ -1,0 +1,587 @@
+{
+  "brands": [
+    {
+      "id": 20,
+      "name": "Amplitude",
+      "thumbnail_image_url": "/Brand/Amplitude.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+    {
+      "id": 29,
+      "name": "BOBBI BROWN",
+      "thumbnail_image_url": "/Brand/BOBBIBROWN.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+    {
+      "id": 16,
+      "name": "Celvoke",
+      "thumbnail_image_url": "/Brand/Celvoke.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+    {
+      "id": 45,
+      "name": "CLINIQUE",
+      "thumbnail_image_url": "/Brand/CLINIQUE.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+    {
+      "id": 44,
+      "name": "CLARINS",
+      "thumbnail_image_url": "/Brand/CLARINS.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+    {
+      "id": 46,
+      "name": "CNP Laboratory",
+      "thumbnail_image_url": "/Brand/CNPLaboratory.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+    {
+      "id": 35,
+      "name": "CHANEL",
+      "thumbnail_image_url": "/Brand/CHANEL.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+    {
+      "id": 23,
+      "name": "DIOR",
+      "thumbnail_image_url": "/Brand/DIOR.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+    {
+      "id": 26,
+      "name": "Estee Lauder",
+      "thumbnail_image_url": "/Brand/EsteeLauder.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+    {
+      "id": 28,
+      "name": "ETVOS",
+      "thumbnail_image_url": "/Brand/ETVOS.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+    {
+      "id": 50,
+      "name": "L'OCCITANE",
+      "thumbnail_image_url": "/Brand/LOCCITANE.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+    {
+      "id": 39,
+      "name": "M・A・C",
+      "thumbnail_image_url": "/Brand/MAC.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+
+    {
+      "id": 55,
+      "name": "ORBIS",
+      "thumbnail_image_url": "/Brand/ORBIS.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+    {
+      "id": 60,
+      "name": "THE BODY SHOP",
+      "thumbnail_image_url": "/Brand/THEBODYSHOP.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+    {
+      "id": 61,
+      "name": "Too Faced",
+      "thumbnail_image_url": "/Brand/TooFaced.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+    {
+      "id": 15,
+      "name": "to/one",
+      "thumbnail_image_url": "/Brand/ToOne.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+    {
+      "id": 95,
+      "name": "IPSA(イプサ)",
+      "thumbnail_image_url": "/Brand/IPSA.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+    {
+      "id": 140,
+      "name": "DECORTE",
+      "thumbnail_image_url": "/Brand/DECORTE.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+    {
+      "id": 93,
+      "name": "rom&nd",
+      "thumbnail_image_url": "/Brand/RomNd.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+    {
+      "id": 114,
+      "name": "VT COSMETICS",
+      "thumbnail_image_url": "/Brand/VT_COSMETICS.jpg",
+      "is_highlighted": true,
+      "type": "Brand"
+    },
+    {
+      "id": 15,
+      "name": "to/one",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 16,
+      "name": "Celvoke",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 18,
+      "name": "MiMC",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 20,
+      "name": "Amplitude",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 21,
+      "name": "B.A",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 23,
+      "name": "DIOR",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 25,
+      "name": "MACCHIA LABEL",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 26,
+      "name": "Estee Lauder",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 28,
+      "name": "ETVOS",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 29,
+      "name": "BOBBI BROWN",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 31,
+      "name": "FIVEISM × THREE",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 33,
+      "name": "ONLY MINERALS",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 34,
+      "name": "colorgram",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 35,
+      "name": "CHANEL",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 36,
+      "name": "GUERLAIN",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 38,
+      "name": "MAKE UP FOR EVER",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 39,
+      "name": "M・A・C",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 40,
+      "name": "dasique",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 41,
+      "name": "Koh Gen Do",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 42,
+      "name": "A'pieu",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 44,
+      "name": "CLARINS",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 45,
+      "name": "CLINIQUE",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 46,
+      "name": "CNP Laboratory",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 47,
+      "name": "ESPRIQUE",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 48,
+      "name": "HABA",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 50,
+      "name": "L'OCCITANE",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 51,
+      "name": "Melvita",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 52,
+      "name": "N by ONLY MINERALS",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 55,
+      "name": "ORBIS",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 56,
+      "name": "OSAJI",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 57,
+      "name": "SKINFOOD",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 60,
+      "name": "THE BODY SHOP",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 61,
+      "name": "Too Faced",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 62,
+      "name": "COFFRET D'OR",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 63,
+      "name": "LANAREY",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 65,
+      "name": "INTEGRATE",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 66,
+      "name": "john masters organics",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 69,
+      "name": "MARY QUANT",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 73,
+      "name": "naturaglace",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 75,
+      "name": "ONE THING",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 83,
+      "name": "MISSHA",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 85,
+      "name": "MAQuillAGE",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 87,
+      "name": "Primavista",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 88,
+      "name": "Chacott",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 89,
+      "name": "MAJOLICA MAJORCA",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 90,
+      "name": "スカルプD ボーテ",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 91,
+      "name": "d program",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 93,
+      "name": "rom&nd",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 94,
+      "name": "Milk Touch",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 95,
+      "name": "FilliMilli",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 96,
+      "name": "AUBE",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 97,
+      "name": "KIRSH",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 98,
+      "name": "ELIXIR",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 99,
+      "name": "ANESSA",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 100,
+      "name": "DR.BRONNER'S",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 101,
+      "name": "Kailijumei",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 114,
+      "name": "VT コスメティックス",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 140,
+      "name": "DECORTÉ(コスメデコルテ)",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+
+    {
+      "id": 147,
+      "name": "Jo Malone London(ジョー マローン ロンドン)",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 178,
+      "name": "Huxley",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 180,
+      "name": "hince",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 181,
+      "name": "IPSA(イプサ)",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    },
+    {
+      "id": 187,
+      "name": "product",
+      "thumbnail_image_url": "",
+      "is_highlighted": false,
+      "type": "Brand"
+    }
+  ]
+}

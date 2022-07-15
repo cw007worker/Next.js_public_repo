@@ -1,0 +1,95 @@
+{
+  "category": {
+    "id": 1,
+    "name": "洗顔・クレンジング人気商品ランキング",
+    "description": "洗顔・クレンジングの人気商品ランキング"
+  },
+  "units": [
+    {
+      "id": 8333,
+      "stock": 5,
+      "size": null,
+      "price": 16192,
+      "original_price": 17600,
+      "discount_rate": 8,
+      "variety_kind": null,
+      "variety": null,
+      "name": "",
+      "image_urls": null,
+      "variety_image": null,
+      "product": {
+        "id": 4326,
+        "name": "ミニ タビー バッグ チャーム シグネチャー キャンバス",
+        "description": "大切な荷物はコンパクトに。キーセットや、ベルトループ、またはバッグに取り付けられる、人気のタビー バッグのミニチュアバージョンです。シグネチャー キャンバス、ポリッシュド ペブル レザー、スエードで仕上げました。ワイヤレスイヤホン、カード、キャッシュの整頓に理想的です。\n\n・ キーホルダー\n・ シグネチャー コーテッド キャンバス、ポリッシュド ペブル レザー、スエード\n・ スナップ開閉、裏地付き\n・ 外側にスリット ポケット\n・ キー リング、ドッグリーシュ クリップ\n・ 縦6.5cm x 横10.5cm x マチ3.5cm\n\nコーチ公式オンラインストア\n<COACHについて>\n1941年にニューヨークで創立したグローバルファッションブランドです。美しさと機能性を兼ね備えたコーチ製品には、熟練したクラフトマンシップが細部にまでに行き届き、最高の使い心地とスタイルをお届けします。コーチが誇るクラシック スタイルと優れたクオリティは、ニューヨーク マンハッタンのロフトで、最初のコーチの革製品が作られた時に確立されたものです。1941年の創業から長い年月を経ても揺るがないコーチの本質。品質、耐久性、機能性、スタイルと言う四本柱が、ブランドをしっかりと支えます。",
+        "has_size": false,
+        "has_variety": false,
+        "image_urls": [
+          "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75",
+          "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75",
+          "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75",
+          "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75"
+        ]
+      }
+    },
+    {
+      "id": 8332,
+      "stock": 5,
+      "size": null,
+      "price": 11011,
+      "original_price": 12100,
+      "discount_rate": 9,
+      "variety_kind": null,
+      "variety": null,
+      "name": "",
+      "image_urls": null,
+      "variety_image": null,
+      "product": {
+        "id": 4325,
+        "name": "ミニ スキニー ID ケース カラーブロック シグネチャー キャンバス",
+        "description": "シグネチャー キャンバスとリファインド レザーを使用したミニ スキニー。キーやカード、その他の大切な小物をスタイリッシュに安全に収納することができます。\n\n・ ブランドの上質な革による、カードケース(カード入れ)\n・ シグネチャー コーテッド キャンバス、リファインド カーフ レザー\n・ カード入れ、身分証明書用ウィンドウ\n・ ファスナー開閉、裏地付き\n・ キー リング\n・ 縦8cm x 横11cm\n※仕様変更によりロゴプレートは無くなりました。(画像更新済み）\n\nコーチ公式オンラインストア\n<COACHについて>\n1941年にニューヨークで創立したグローバルファッションブランドです。美しさと機能性を兼ね備えたコーチ製品には、熟練したクラフトマンシップが細部にまでに行き届き、最高の使い心地とスタイルをお届けします。コーチが誇るクラシック スタイルと優れたクオリティは、ニューヨーク マンハッタンのロフトで、最初のコーチの革製品が作られた時に確立されたものです。1941年の創業から長い年月を経ても揺るがないコーチの本質。品質、耐久性、機能性、スタイルと言う四本柱が、ブランドをしっかりと支えます。",
+        "has_size": false,
+        "has_variety": false,
+        "image_urls": [
+          "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75",
+          "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75",
+          "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75",
+          "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75"
+        ]
+      }
+    },
+    {
+      "id": 8331,
+      "stock": 5,
+      "size": null,
+      "price": 9306,
+      "original_price": 9900,
+      "discount_rate": 6,
+      "variety_kind": null,
+      "variety": null,
+      "name": "",
+      "image_urls": null,
+      "variety_image": null,
+      "product": {
+        "id": 4324,
+        "name": "ミニ スキニー ID ケース",
+        "description": "ややテクスチャー感のあるクロスグレイン レザーで仕上げたIDケース。ミニマルなデザインながら、カード、キャッシュなどを収納できる片マチ付きのジップポケットに、外側には便利なIDウィンドウとカードスロット付き。キーリングはキーを束ねたり、バッグに取り付けても。\n\n【クロスグレイン レザーについて】\n皮にコーティングをかけ、クロスグレインという小さな菱形模様のエンボス加工を施しました。ほのかな光沢が高級感を演出し、光の当たり方で表情が変わる美しい革です。イタリアのタンナリーで開発されたコーチのクロスグレインレザーはきめ細かく、軽\n\n・ フラグメントケース\n・ ブランドの上質な革による、カードケース(カード入れ)\n・ クロスグレイン レザー\n・ カード入れ、身分証明書用ウィンドウ\n・ ファスナー開閉、裏地付き\n・ キー リング\n・ 縦8cm x 横11cm\n\nコーチ公式オンラインストア\n<COACHについて>\n1941年にニューヨークで創立したグローバルファッションブランドです。美しさと機能性を兼ね備えたコーチ製品には、熟練したクラフトマンシップが細部にまでに行き届き、最高の使い心地とスタイルをお届けします。コーチが誇るクラシック スタイルと優れたクオリティは、ニューヨーク マンハッタンのロフトで、最初のコーチの革製品が作られた時に確立されたものです。1941年の創業から長い年月を経ても揺るがないコーチの本質。品質、耐久性、機能性、スタイルと言う四本柱が、ブランドをしっかりと支えます。",
+        "has_size": false,
+        "has_variety": false,
+        "image_urls": [
+          "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75",
+          "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75",
+          "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75",
+          "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75"
+        ]
+      }
+    }
+  ],
+  "pagenation": {
+    "total_count": 4353,
+    "limit_value": 24,
+    "total_pages": 182,
+    "current_page": 1,
+    "previous_page": null,
+    "next_page": 2
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "units": [
+    {
+      "id": 2115,
+      "stock": 5,
+      "size": null,
+      "price": 3346,
+      "original_price": 4290,
+      "discount_rate": 22,
+      "variety_kind": null,
+      "variety": null,
+      "name": null,
+      "image_urls": null,
+      "product": {
+        "id": 2296,
+        "name": "ビオオイル アルガンオイル リリーオブザバレー 50mL M",
+        "description": "ムーミンコラボ限定デザインのスズラン香るアルガンオイル\n\nメルヴィータの代名詞、アルガンオイルに「ムーミン」とのコラボ限定デザインが登場。幸運を告げると言われる、爽やかな限定のスズランの香りにぴったりの「スナフキン」のキャラクターと勇気づけてくれる名言をパッケージにデザインしました。製品の外箱は、裏返すことで2022年のカレンダーとして再利用頂けるサステナブルな設計に。アルガンオイル、そしてムーミン谷の仲間たちと過ごす1年が、\"あなたらしい\"美しさをさらに輝かせる素敵な1年になるよう願いを込めて。\n\n(c) Moomin Characters TM\n\nアルガンオイルについて：\n洗顔後のまっさらな肌にブースターとして使うと、オイルがスーッとなじんでいき、その後に使う化粧水のうるおいをしっかりと抱え込みます。オーガニック認証を得た100%ナチュラル成分で、肌にやさしくなじみ、スキンケアだけでなく、ボディケアに、ヘアケアに、全身にご使用頂けます。\n\n【使用方法】\n洗顔後すぐ、化粧水など普段のお手入れの前に適量を顔になじませます。髪や手など全身にもお使いいただけます。\n【フェイス】キャップを外し、手のひらの上でボトルを静かに逆さにします。オイルを適量とり、塗布してください。洗顔後すぐの肌に、お使いいただくのがおすすめです。下記の量を目安に肌の状態に合わせてお使いください。\n〈顔全体へのケア使用目安〉普通肌：5-8滴／乾燥肌：10滴／脂性肌：3-5滴\n【ボディ】ケアしたいボディパーツにノズルを直接あて、ボトルを傾けながら塗布することも出来ます。",
+        "has_size": false,
+        "has_variety": false,
+        "image_urls": [
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--828604dc69cbd95945fed173d823e29b40fa4270/60702994b_39_d_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWdtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e63cf1cf55a39ea85eca13c5b51dd27db101b174/60702994b_b_02_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWttIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c6e6a1770deeb5f30c00c5701e3030e5903d9408/60702994b_b_03_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcW9tIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cdbe27bd25499b9dbe52d4c75f1fa977fc2d41e8/60702994b_b_04_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2d3e7da0d03b5cdba1a38af78dbd2c2159313a01/60702994b_b_05_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXdtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--11efa0f7b0076dcadd8b95f86ec69a93f0b00c28/60702994b_b_06_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTBtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--02d65ba14b56cf90cca557c135871e45707c65a2/60702994b_b_07_500.jpg"
+        ]
+      }
+    },
+    {
+      "id": 2116,
+      "stock": 5,
+      "size": null,
+      "price": 3346,
+      "original_price": 4290,
+      "discount_rate": 22,
+      "variety_kind": null,
+      "variety": null,
+      "name": null,
+      "image_urls": null,
+      "product": {
+        "id": 2297,
+        "name": "ビオオイル アルガンオイル ローズ 50mL",
+        "description": "“化粧水ごくごく肌”になる保湿ブースターオイル。ローズの香り。\n\n「大人気保湿ブースター」洗顔後すぐの肌に使うことで、次に使う化粧水を肌がごくごく飲むようにうるおいを抱え込む、アルガンオイルのブースター効果を実感いただけます。\nオーガニック認証を得た100%ナチュラル成分で、肌にやさしくなじみ、もっちりとしたうるおいに満ちた肌へと導きます。スキンケアだけでなく、ボディケアに、ヘアケアに、全身にご使用いただけます。\n\n＜世界初。独自のアプリケーターで新登場！＞\n肌質や肌状態に合わせてオイルの量を微差に調整できる「MY(マイ)ドロップ・アプリケーター」を開発。肌質に合わせた目安の量を一滴ずつ調整ができ自分にベストな使い方が見つかります。\n\n【使用方法】\n洗顔後すぐ、化粧水など普段のお手入れの前に適量を顔になじませます。髪や手など全身にもお使いいただけます。\n\n 【フェイス】\nキャップを外し、手のひらの上でボトルを静かに逆さにします。オイルを適量とり、塗布してください。洗顔後すぐの肌にお使いいただくのがおすすめです。下記の量を目安に肌の状態に合わせてお使いください。\n 〈顔全体へのケア使用目安〉普通肌：5-8滴／乾燥肌：10滴／脂性肌：3-5滴\n\n 【ボディ】\nケアしたいボディパーツにノズルを直接あて、ボトルを傾けながら塗布することも出来ます。\n\n\n＜価格改定のお知らせ＞\n2021/10/6 10:00より、天然原料の価格変更および為替変動の影響により価格改定をさせて頂きます。ご了承下さいますよう、お願い申し上げます。",
+        "has_size": false,
+        "has_variety": false,
+        "image_urls": [
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTRtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1facab22fde6c3d589a8d25059d9ab017ae4b8a7/54019480b_39_d_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcThtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9046e215929e06081c89ed61b3e210d8d536426e/54019480b_b_03_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBckFtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--66a4b64e4c140a841d60cbea896b97b5fae53f88/54019480b_b_11_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBckVtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3b373f7a641b438b9abd58cd9ea5ed558e3c3e12/54019480b_b_12_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBckltIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--194e74e95f82d18cb44405de428f3008f069315b/54019480b_b_13_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBck1tIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ec3ffcf3da1fed636e1e3f90b5322821f9d907cb/54019480b_b_14_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclFtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--93954c092cd798c7437378830a0aafa94c40019f/54019480b_b_15_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclVtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--29c42a882072d99ca27f528b326dfe99b04a4b92/54019480b_b_16_500.jpg"
+        ]
+      }
+    },
+    {
+      "id": 2117,
+      "stock": 5,
+      "size": null,
+      "price": 3346,
+      "original_price": 4290,
+      "discount_rate": 22,
+      "variety_kind": null,
+      "variety": null,
+      "name": null,
+      "image_urls": null,
+      "product": {
+        "id": 2298,
+        "name": "ビオオイル アルガンオイル ローズ 50mL M",
+        "description": "ムーミンコラボ限定デザインのローズ香るアルガンオイル\n\nメルヴィータの代名詞、アルガンオイルに「ムーミン」とのコラボ限定デザインが登場。華やかで乙女心をくすぐるローズの香りにぴったりの「スノークのおじょうさん」のキャラクターとキュートなその名言をパッケージにデザインしました。製品の外箱は、裏返すことで2022年のカレンダーとして再利用頂けるサステナブルな設計に。アルガンオイルと、そしてムーミン谷の仲間たちと過ごす1年が、\"あなたらしい\"美しさをさらに輝かせる素敵な1年になるよう願いを込めて。\n\n(c) Moomin Characters TM\n\nアルガンオイルについて：\n洗顔後のまっさらな肌にブースターとして使うと、オイルがスーッとなじんでいき、その後に使う化粧水のうるおいをしっかりと抱え込みます。オーガニック認証を得た100%ナチュラル成分で、肌にやさしくなじみ、スキンケアだけでなく、ボディケアに、ヘアケアに、全身にご使用頂けます。\n\n【使用方法】\n洗顔後すぐ、化粧水など普段のお手入れの前に適量を顔になじませます。髪や手など全身にもお使いいただけます。\n【フェイス】キャップを外し、手のひらの上でボトルを静かに逆さにします。オイルを適量とり、塗布してください。洗顔後すぐの肌に、お使いいただくのがおすすめです。下記の量を目安に肌の状態に合わせてお使いください。\n〈顔全体へのケア使用目安〉普通肌：5-8滴／乾燥肌：10滴／脂性肌：3-5滴\n【ボディ】ケアしたいボディパーツにノズルを直接あて、ボトルを傾けながら塗布することも出来ます。",
+        "has_size": false,
+        "has_variety": false,
+        "image_urls": [
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclltIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--718e688e94fb86da0ae71eb04027b2ffcf4dc309/60702960b_39_d_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1702ba37e9e6d9fb4e71de936302b0c022dca79c/60702960b_b_02_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmdtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7f0eb05ea2d4bcae62d94e8455b84844c3405cae/60702960b_b_03_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmttIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d6242692b82784f186e967ecc4c6abe1958e5156/60702960b_b_04_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcm9tIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0badc1a8d47baf6d4e4581e44cf9175be092b608/60702960b_b_05_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcnNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10aeccac3cf3c2356697233eca31c05028eee246/60702960b_b_06_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcndtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d5642af9a64b005696e985ec85796f618d07f7c6/60702960b_b_07_500.jpg",
+          "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjBtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--67ca1bc0b31a73fa0c5086dcced25d85b4b5fe86/60702960b_b_08_500.jpg"
+        ]
+      }
+    }
+  ]
+}

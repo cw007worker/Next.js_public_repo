@@ -1,0 +1,31 @@
+{
+  "order":{
+    "id":1,
+    "order_id_for_customer":10271,
+    "payment_status":"pending",
+    "payment_amount":4400,
+    "total_discount_amount":0,
+    "total_unit_original_price":5500,
+    "total_unit_price":4400,
+    "total_usaged_points":1100,
+    "first_name":"Ko","last_name":"Watanabe",
+    "first_name_kana":"コウ","last_name_kana":"ワタナベ",
+    "zipcode":1111111,
+    "prefecture":"東京都",
+    "address":"渋谷区",
+    "building_name":"パントリー",
+    "reception_date":"2022-05-21T18:28:11",
+    "total_delivery_cost":0,
+    "order_items":[{
+      "id":1,
+      "unit_id":151,
+      "product_id":151,
+      "quantity":1,
+      "name":"フェイスパウダー/",
+      "unit_price":4400,
+      "unit_original_price":5500,
+      "product_image_url":"http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBLdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d4ad5f88813a82929ea14b0922a0ac3b8792e9f5/IMG_7570.jpg",
+      "unit_image_url":null
+    }]
+  }
+}

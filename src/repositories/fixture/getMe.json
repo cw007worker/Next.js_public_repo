@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "first_name": "RIKU",
+  "last_name": "TAKHASHI",
+  "email": "riku.1998.1027@gmail.com",
+  "has_password": true,
+  "phone_number": 817048108396,
+  "is_membership": true,
+
+  "cart_item_count": 2
+}

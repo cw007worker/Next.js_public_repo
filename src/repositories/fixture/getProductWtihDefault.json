@@ -1,0 +1,47 @@
+{
+  "id": 1,
+  "name": "豊かな自然から生まれた、まろやかで飲みやすい硬度49㎎/Lの軟水",
+  "description": "豊かな自然から生まれた、まろやかで飲みやすい硬度49㎎/Lの軟水です。飲料水としてだけでなく、水出しやお料理などにお使いいただいても、素材の味を邪魔しません。毎日の生活に欠かせないお水、Happy Belly(ハッピーベリー)岐阜・美濃 天然水を是非お試しください。",
+  "image_urls": [
+    "https://bit.ly/sage-adebayo",
+    "static/Fallback/FallbackLarge.svg",
+    "static/productDetail-sample.png",
+    "static/productDetail-sample.png",
+    "static/productDetail-sample.png",
+    "static/productDetail-sample.png",
+    "static/productDetail-sample.png"
+  ],
+  "has_size": false,
+  "has_variety": false,
+  "units": [
+    {
+      "id": 8330,
+      "stock": 5,
+      "size": null,
+      "price": 16368,
+      "original_price": 17600,
+      "discount_rate": 7,
+      "variety_kind": null,
+      "variety": null,
+      "name": "",
+      "image_urls": null,
+      "variety_image": null,
+      "discount_rate": 0,
+      "wishlist_id": null
+    }
+  ],
+  "tags": [
+    {
+      "id": 206,
+      "name": "ファッション"
+    },
+    {
+      "id": 209,
+      "name": "財布/小物"
+    },
+    {
+      "id": 208,
+      "name": "COACH"
+    }
+  ]
+}

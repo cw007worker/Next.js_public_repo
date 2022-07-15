@@ -1,0 +1,182 @@
+{
+  "tag": {
+    "id": 3,
+    "name": "タグ名",
+    "units": [
+      {
+        "id": 2,
+        "name": null,
+        "price": 1000,
+        "original_price": 10000,
+        "discount_rate": 90,
+        "size": null,
+        "variety": null,
+        "variety_kind": null,
+        "is_default": true,
+        "image_urls": ["https://bit.ly/naruto-sage"],
+        "stock": 14,
+        "product": {
+          "id": 1,
+          "name": "水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水",
+          "description": "豊かな自然から生まれた、まろやかで飲みやすい硬度49㎎/Lの軟水です。飲料水としてだけでなく、水出しやお料理などにお使いいただいても、素材の味を邪魔しません。毎日の生活に欠かせないお水、Happy Belly(ハッピーベリー)岐阜・美濃 天然水を是非お試しください。",
+          "has_size": true,
+          "has_variety": false,
+          "image_urls": ["https://bit.ly/naruto-sage"]
+        }
+      },
+      {
+        "id": 3,
+        "name": "ピンク/サイズS",
+        "price": 2000,
+        "original_price": 4000,
+        "discount_rate": 50,
+        "size": "S",
+        "variety": "ピンク",
+        "variety_kind": "color",
+        "is_default_unit": false,
+        "image_urls": ["https://bit.ly/naruto-sage"],
+        "stock": 14,
+        "product": {
+          "id": 1,
+          "name": "ディオール バックステージ アイ パレット",
+          "description": "豊かな自然から生まれた、まろやかで飲みやすい硬度49㎎/Lの軟水です。飲料水としてだけでなく、水出しやお料理などにお使いいただいても、素材の味を邪魔しません。毎日の生活に欠かせないお水、Happy Belly(ハッピーベリー)岐阜・美濃 天然水を是非お試しください。",
+          "has_size": true,
+          "has_variety": true,
+          "image_urls": [
+            "http://35.73.134.215/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35891ba879c16827b25148ff2049072ead0351d6/814kEgHCb7L._AC_SX679_.jpg",
+            "http://35.73.134.215/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35891ba879c16827b25148ff2049072ead0351d6/814kEgHCb7L._AC_SX679_.jpg"
+          ]
+        }
+      },
+      {
+        "id": 4,
+        "name": "ピンク/サイズS",
+        "price": 2000,
+        "original_price": 4000,
+        "discount_rate": 50,
+        "size": "S",
+        "variety": "ピンク",
+        "variety_kind": "color",
+        "is_default_unit": false,
+        "image_urls": ["https://bit.ly/naruto-sage"],
+        "stock": 14,
+        "product": {
+          "id": 1,
+          "name": "ディオール バックステージ アイ パレット",
+          "description": "豊かな自然から生まれた、まろやかで飲みやすい硬度49㎎/Lの軟水です。飲料水としてだけでなく、水出しやお料理などにお使いいただいても、素材の味を邪魔しません。毎日の生活に欠かせないお水、Happy Belly(ハッピーベリー)岐阜・美濃 天然水を是非お試しください。",
+          "has_size": true,
+          "has_variety": true,
+          "image_urls": [
+            "http://35.73.134.215/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35891ba879c16827b25148ff2049072ead0351d6/814kEgHCb7L._AC_SX679_.jpg",
+            "http://35.73.134.215/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35891ba879c16827b25148ff2049072ead0351d6/814kEgHCb7L._AC_SX679_.jpg"
+          ]
+        }
+      },
+      {
+        "id": 5,
+        "name": "ピンク/サイズS",
+        "price": 2000,
+        "original_price": 4000,
+        "discount_rate": 50,
+        "size": "S",
+        "variety": "ピンク",
+        "variety_kind": "color",
+        "is_default_unit": false,
+        "image_urls": ["https://bit.ly/naruto-sage"],
+        "stock": 14,
+        "product": {
+          "id": 1,
+          "name": "ディオール バックステージ アイ パレット",
+          "description": "豊かな自然から生まれた、まろやかで飲みやすい硬度49㎎/Lの軟水です。飲料水としてだけでなく、水出しやお料理などにお使いいただいても、素材の味を邪魔しません。毎日の生活に欠かせないお水、Happy Belly(ハッピーベリー)岐阜・美濃 天然水を是非お試しください。",
+          "has_size": true,
+          "has_variety": true,
+          "image_urls": [
+            "http://35.73.134.215/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35891ba879c16827b25148ff2049072ead0351d6/814kEgHCb7L._AC_SX679_.jpg",
+            "http://35.73.134.215/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35891ba879c16827b25148ff2049072ead0351d6/814kEgHCb7L._AC_SX679_.jpg"
+          ]
+        }
+      },
+      {
+        "id": 3,
+        "name": "ピンク/サイズS",
+        "price": 2000,
+        "original_price": 4000,
+        "discount_rate": 50,
+        "size": "S",
+        "variety": "ピンク",
+        "variety_kind": "color",
+        "is_default_unit": false,
+        "image_urls": ["https://bit.ly/naruto-sage"],
+        "stock": 14,
+        "product": {
+          "id": 1,
+          "name": "ディオール バックステージ アイ パレット",
+          "description": "豊かな自然から生まれた、まろやかで飲みやすい硬度49㎎/Lの軟水です。飲料水としてだけでなく、水出しやお料理などにお使いいただいても、素材の味を邪魔しません。毎日の生活に欠かせないお水、Happy Belly(ハッピーベリー)岐阜・美濃 天然水を是非お試しください。",
+          "has_size": true,
+          "has_variety": true,
+          "image_urls": [
+            "http://35.73.134.215/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35891ba879c16827b25148ff2049072ead0351d6/814kEgHCb7L._AC_SX679_.jpg",
+            "http://35.73.134.215/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35891ba879c16827b25148ff2049072ead0351d6/814kEgHCb7L._AC_SX679_.jpg"
+          ]
+        }
+      },
+      {
+        "id": 6,
+        "name": "ピンク/サイズS",
+        "price": 2000,
+        "original_price": 4000,
+        "discount_rate": 50,
+        "size": "S",
+        "variety": "ピンク",
+        "variety_kind": "color",
+        "is_default_unit": false,
+        "image_urls": ["https://bit.ly/naruto-sage"],
+        "stock": 14,
+        "product": {
+          "id": 1,
+          "name": "ディオール バックステージ アイ パレット",
+          "description": "豊かな自然から生まれた、まろやかで飲みやすい硬度49㎎/Lの軟水です。飲料水としてだけでなく、水出しやお料理などにお使いいただいても、素材の味を邪魔しません。毎日の生活に欠かせないお水、Happy Belly(ハッピーベリー)岐阜・美濃 天然水を是非お試しください。",
+          "has_size": true,
+          "has_variety": true,
+          "image_urls": [
+            "http://35.73.134.215/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35891ba879c16827b25148ff2049072ead0351d6/814kEgHCb7L._AC_SX679_.jpg",
+            "http://35.73.134.215/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35891ba879c16827b25148ff2049072ead0351d6/814kEgHCb7L._AC_SX679_.jpg"
+          ]
+        }
+      },
+      {
+        "id": 7,
+        "name": "ピンク/サイズS",
+        "price": 2000,
+        "original_price": 4000,
+        "discount_rate": 50,
+        "size": "S",
+        "variety": "ピンク",
+        "variety_kind": "color",
+        "is_default_unit": false,
+        "image_urls": ["https://bit.ly/naruto-sage"],
+        "stock": 14,
+        "product": {
+          "id": 1,
+          "name": "ディオール バックステージ アイ パレット",
+          "description": "豊かな自然から生まれた、まろやかで飲みやすい硬度49㎎/Lの軟水です。飲料水としてだけでなく、水出しやお料理などにお使いいただいても、素材の味を邪魔しません。毎日の生活に欠かせないお水、Happy Belly(ハッピーベリー)岐阜・美濃 天然水を是非お試しください。",
+          "has_size": true,
+          "has_variety": true,
+          "image_urls": [
+            "http://35.73.134.215/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35891ba879c16827b25148ff2049072ead0351d6/814kEgHCb7L._AC_SX679_.jpg",
+            "http://35.73.134.215/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35891ba879c16827b25148ff2049072ead0351d6/814kEgHCb7L._AC_SX679_.jpg"
+          ]
+        }
+      }
+    ]
+  },
+
+  "pagenation": {
+    "total_count": 1000,
+    "limit_value": 50,
+    "total_pages": 20,
+    "current_page": 1,
+    "previous_page": null,
+    "next_page": 2
+  }
+}

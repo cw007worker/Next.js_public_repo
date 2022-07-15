@@ -1,0 +1,93 @@
+{
+  "id": 1,
+  "name": "豊かな自然から生まれた、まろやかで飲みやすい硬度49㎎/Lの軟水",
+  "description": "豊かな自然から生まれた、まろやかで飲みやすい硬度49㎎/Lの軟水です。飲料水としてだけでなく、水出しやお料理などにお使いいただいても、素材の味を邪魔しません。毎日の生活に欠かせないお水、Happy Belly(ハッピーベリー)岐阜・美濃 天然水を是非お試しください。",
+  "has_size": true,
+  "has_variety": false,
+  "image_urls": [
+    "static/productDetail-sample.png",
+    "static/productDetail-sample.png",
+    "static/productDetail-sample.png",
+    "static/productDetail-sample.png",
+    "static/productDetail-sample.png",
+    "static/productDetail-sample.png",
+    "static/productDetail-sample.png"
+  ],
+  "units": [
+    {
+      "id": 11,
+      "name": "ブラック/サイズXS",
+      "image_urls": [
+        "static/productDetail-sample.png",
+        "static/productDetail-sample.png"
+      ],
+      "price": 130,
+      "original_price": 1300,
+      "stock": 5,
+      "size": "S",
+      "variety_kind": null,
+      "variety": null,
+      "variety_image": null
+    },
+    {
+      "id": 12,
+      "name": "レッド/サイズXS",
+      "size": "M",
+      "variety_kind": null,
+      "variety": null,
+      "variety_image": null,
+      "image_urls": [
+        "static/productDetail-sample.png",
+        "static/productDetail-sample.png"
+      ],
+      "price": 1030,
+      "original_price": 10040,
+      "stock": 5
+    },
+    {
+      "id": 13,
+      "name": "ピンク/サイズXS",
+      "size": "L",
+      "variety_kind": null,
+      "variety": null,
+      "variety_image": null,
+      "image_urls": [
+        "static/productDetail-sample.png",
+        "static/productDetail-sample.png"
+      ],
+      "price": 1060,
+      "original_price": 16000,
+      "stock": 5
+    },
+    {
+      "id": 14,
+      "name": "ブラック/サイズXS",
+      "size": "XL",
+      "variety_kind": null,
+      "variety": null,
+      "variety_image": null,
+      "image_urls": [
+        "static/productDetail-sample.png",
+        "static/productDetail-sample.png"
+      ],
+      "price": 1700,
+      "original_price": 70000,
+      "stock": 5
+    },
+    {
+      "id": 15,
+      "name": "レッド/サイズS",
+      "size": "XXL",
+      "variety_kind": null,
+      "variety": null,
+      "variety_image": null,
+      "image_urls": [
+        "static/productDetail-sample.png",
+        "static/productDetail-sample.png"
+      ],
+      "price": 1000,
+      "original_price": 10800,
+      "stock": 5
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+<svg width="39" height="24" viewBox="0 0 39 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M35 8H32V4H18C16.9 4 16 4.9 16 6V17H18C18 18.66 19.34 20 21 20C22.66 20 24 18.66 24 17H30C30 18.66 31.34 20 33 20C34.66 20 36 18.66 36 17H38V12L35 8ZM34.5 9.5L36.46 12H32V9.5H34.5ZM21 18C20.45 18 20 17.55 20 17C20 16.45 20.45 16 21 16C21.55 16 22 16.45 22 17C22 17.55 21.55 18 21 18ZM23.22 15C22.67 14.39 21.89 14 21 14C20.11 14 19.33 14.39 18.78 15H18V6H30V15H23.22ZM33 18C32.45 18 32 17.55 32 17C32 16.45 32.45 16 33 16C33.55 16 34 16.45 34 17C34 17.55 33.55 18 33 18Z" fill="#BDBDBD"/>
+<line x1="5" y1="9" x2="10" y2="9" stroke="#BDBDBD" stroke-width="2" stroke-linecap="round"/>
+<line x1="3" y1="17" x2="8" y2="17" stroke="#BDBDBD" stroke-width="2" stroke-linecap="round"/>
+<line x1="1" y1="13" x2="8" y2="13" stroke="#BDBDBD" stroke-width="2" stroke-linecap="round"/>
+</svg>

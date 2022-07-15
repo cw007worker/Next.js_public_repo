@@ -1,0 +1,14 @@
+{
+  "id": "v_mZ5N4DnnQIMtqXmfBxSrTvZ84U3uZuO1",
+  "code": "Vcsava",
+  "active": true,
+  "campaign_name": "友達紹介報酬",
+  "discount_type": "PERCENT",
+  "discount": {
+    "type": "PERCENT",
+    "percent_off": 30,
+    "effect": "APPLY_TO_ITEMS"
+  },
+  "start_date": "2022-01-01T00:00",
+  "expiration_date": "2022-01-26T00:00"
+}

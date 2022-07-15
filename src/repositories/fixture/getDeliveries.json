@@ -1,0 +1,160 @@
+{
+  "deliveries": [
+    {
+      "id": 1,
+      "delivery_status": "unconfirmed",
+      "shipping_number": "11111",
+      "shipment_date": "2022-02-22",
+      "cost": 400,
+      "order": {
+        "id": 1,
+        "order_id_for_customer": 10271,
+        "payment_status": "completion",
+        "payment_amount": 4400,
+        "total_discount_amount": 1000,
+        "total_unit_price": 5000,
+        "first_name": "寛平",
+        "last_name": "佐藤",
+        "first_name_kana": "サトウ",
+        "last_name_kana": "カンペイ",
+        "zipcode": 1110000,
+        "prefecture": "東京都",
+        "address": "葛飾区金町",
+        "building_name": "",
+        "reception_date": "2022-02-10T00:00"
+      },
+      "order_items": [
+        {
+          "id": 1257,
+          "unit_id": 4797,
+          "product_id": 3000,
+          "name": "ルージュ ココ ブルーム リップスティック（つや・鮮やかな発色）/カラー/126 シーズン",
+          "unit_price": 5000,
+          "quantity": 2,
+          "unit_image_url": "",
+          "product_image_url": ""
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "delivery_status": "unshipped",
+      "shipping_number": "11111",
+      "shipment_date": "2022-02-22",
+      "cost": 400,
+      "order": {
+        "id": 1,
+        "order_id_for_customer": 10271,
+        "payment_status": "completion",
+        "payment_amount": 4400,
+        "total_discount_amount": 1000,
+        "total_unit_price": 5000,
+        "first_name": "寛平",
+        "last_name": "佐藤",
+        "first_name_kana": "サトウ",
+        "last_name_kana": "カンペイ",
+        "zipcode": 1110000,
+        "prefecture": "東京都",
+        "address": "葛飾区金町",
+        "building_name": "",
+        "reception_date": "2022-02-10T00:00"
+      },
+      "order_items": [
+        {
+          "id": 1257,
+          "unit_id": 4797,
+          "product_id": 3000,
+          "name": "ルージュ ココ ブルーム リップスティック（つや・鮮やかな発色）/カラー/126 シーズン",
+          "unit_price": 5000,
+          "quantity": 2,
+          "unit_image_url": "",
+          "product_image_url": ""
+        },
+        {
+          "id": 1257,
+          "unit_id": 4797,
+          "product_id": 3000,
+          "name": "ルージュ ココ ブルーム リップスティック（つや・鮮やかな発色）/カラー/126 シーズン",
+          "unit_price": 5000,
+          "quantity": 2,
+          "unit_image_url": "",
+          "product_image_url": ""
+        },
+        {
+          "id": 1257,
+          "unit_id": 4797,
+          "product_id": 3000,
+          "name": "ルージュ ココ ブルーム リップスティック（つや・鮮やかな発色）/カラー/126 シーズン",
+          "unit_price": 5000,
+          "quantity": 2,
+          "unit_image_url": "",
+          "product_image_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "delivery_status": "shipped",
+      "shipping_number": "11111",
+      "shipment_date": "2022-02-27",
+      "cost": 400,
+      "order": {
+        "id": 1,
+        "order_id_for_customer": 10271,
+        "payment_status": "completion",
+        "payment_amount": 4400,
+        "total_discount_amount": 1000,
+        "total_unit_price": 5000,
+        "first_name": "寛平",
+        "last_name": "佐藤",
+        "first_name_kana": "サトウ",
+        "last_name_kana": "カンペイ",
+        "zipcode": 1110000,
+        "prefecture": "東京都",
+        "address": "葛飾区金町",
+        "building_name": "",
+        "reception_date": "2022-02-10T00:00"
+      },
+      "order_items": [
+        {
+          "id": 1257,
+          "unit_id": 4797,
+          "product_id": 3000,
+          "name": "ルージュ ココ ブルーム リップスティック（つや・鮮やかな発色）/カラー/126 シーズン",
+          "unit_price": 5000,
+          "quantity": 2,
+          "unit_image_url": "",
+          "product_image_url": ""
+        },
+        {
+          "id": 1257,
+          "unit_id": 4797,
+          "product_id": 3000,
+          "name": "ルージュ ココ ブルーム リップスティック（つや・鮮やかな発色）/カラー/126 シーズン",
+          "unit_price": 5000,
+          "quantity": 2,
+          "unit_image_url": "",
+          "product_image_url": ""
+        },
+        {
+          "id": 1257,
+          "unit_id": 4797,
+          "product_id": 3000,
+          "name": "ルージュ ココ ブルーム リップスティック（つや・鮮やかな発色）/カラー/126 シーズン",
+          "unit_price": 5000,
+          "quantity": 2,
+          "unit_image_url": "",
+          "product_image_url": ""
+        }
+      ]
+    }
+  ],
+  "pagenation": {
+    "total_count": 4353,
+    "limit_value": 24,
+    "total_pages": 182,
+    "current_page": 1,
+    "previous_page": null,
+    "next_page": 2
+  }
+}

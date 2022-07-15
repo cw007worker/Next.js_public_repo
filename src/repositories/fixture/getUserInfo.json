@@ -1,0 +1,32 @@
+{
+  "id": 1,
+  "firebase_auth_uid": "2HlPev4cgiOpTS4rDMcV6WCfy4I3",
+  "stripe_customer_id": "cus_aaaaaaaaaaaaaaaaa",
+  "is_membership": true,
+  "email": "aaa@example.com",
+  "payment_ways": [
+    {
+      "stripe_card_id": "card_1JbKfrFzbuhke0Hpi3Ctnjzj",
+      "brand": "MasterCard",
+      "last4": "4444",
+      "exp_month": 12,
+      "exp_year": 2025,
+      "is_default_payment_way": true
+    },
+    {
+      "stripe_card_id": "card_1JaukNFzbuhke0HpQLfRZ65n",
+      "brand": "Visa",
+      "last4": "4242",
+      "exp_month": 1,
+      "exp_year": 2025,
+      "is_default_payment_way": false
+    }
+  ],
+  "subscription": {
+    "id": 4,
+    "contract_start_date": "2021-09-18",
+    "current_period_end_date": "2021-10-18",
+    "will_cancel_at_period_end": false,
+    "is_trial": true
+  }
+}

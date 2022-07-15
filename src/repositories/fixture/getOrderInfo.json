@@ -1,0 +1,84 @@
+{
+  "subtotal_price": 19200,
+  "total_delivery_fee": 800,
+  "total_price": 20000,
+  "cart_items": [
+    {
+      "id": 22,
+      "unit_id": 6,
+      "unit_name": "美味しい",
+      "unit_stock": 20,
+      "unit_quantity": 20,
+      "unit_price": 10000,
+      "unit_original_price": 10000,
+      "unit_image_url": null,
+      "product": {
+        "id": 1,
+        "name": "水",
+        "description": "賢くなる水です！",
+        "image_url": null
+      }
+    },
+    {
+      "id": 22,
+      "unit_id": 6,
+      "unit_name": "美味しい",
+      "unit_stock": 20,
+      "unit_quantity": 20,
+      "unit_price": 10000,
+      "unit_original_price": 10000,
+      "unit_image_url": null,
+      "product": {
+        "id": 1,
+        "name": "水",
+        "description": "賢くなる水です！",
+        "image_url": null
+      }
+    },
+    {
+      "id": 22,
+      "unit_id": 6,
+      "unit_name": "美味しい",
+      "unit_stock": 20,
+      "unit_quantity": 20,
+      "unit_price": 10000,
+      "unit_original_price": 10000,
+      "unit_image_url": null,
+      "product": {
+        "id": 1,
+        "name": "水",
+        "description": "賢くなる水です！",
+        "image_url": null
+      }
+    }
+  ],
+  "payment_ways": [
+    {
+      "stripe_card_id": "card_1JbKfrFzbuhke0Hpi3Ctnjzj",
+      "brand": "MasterCard",
+      "last4": "4444",
+      "exp_month": 12,
+      "exp_year": 2025,
+      "is_default_payment_way": true
+    },
+    {
+      "stripe_card_id": "card_1JaukNFzbuhke0HpQLfRZ65n",
+      "brand": "Visa",
+      "last4": "4242",
+      "exp_month": 1,
+      "exp_year": 2025,
+      "is_default_payment_way": false
+    }
+  ],
+  "shipping_address": {
+    "id": 2,
+    "first_name": "佐藤",
+    "last_name": "貫平",
+    "first_name_kana": "サトウ",
+    "last_name_kana": "カンペイ",
+    "zipcode": "1001111",
+    "prefecture": "東京都",
+    "address": "渋谷区渋谷1-1-1",
+    "building_name": "渋谷ビル1001"
+  }
+}

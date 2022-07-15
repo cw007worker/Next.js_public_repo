@@ -1,0 +1,56 @@
+{
+  "current_cart": {
+    "id": 18,
+    "total_delivery_fee": 800,
+    "cart_items": [
+      {
+        "id": 22,
+        "unit_id": 6,
+        "unit_name": "美味しい",
+        "unit_stock": 20,
+        "unit_quantity": 20,
+        "unit_price": 10000,
+        "unit_original_price": 10000,
+        "unit_image_url": null,
+        "product": {
+          "id": 1,
+          "name": "水",
+          "description": "賢くなる水です！",
+          "image_url": null
+        }
+      },
+      {
+        "id": 22,
+        "unit_id": 6,
+        "unit_name": "美味しい",
+        "unit_stock": 20,
+        "unit_quantity": 20,
+        "unit_price": 10000,
+        "unit_original_price": 10000,
+        "unit_image_url": null,
+        "product": {
+          "id": 1,
+          "name": "水",
+          "description": "賢くなる水です！",
+          "image_url": null
+        }
+      },
+      {
+        "id": 22,
+        "unit_id": 6,
+        "unit_name": "美味しい",
+        "unit_stock": 20,
+        "unit_quantity": 20,
+        "unit_price": 10000,
+        "unit_original_price": 10000,
+        "unit_image_url": null,
+        "product": {
+          "id": 1,
+          "name": "水",
+          "description": "賢くなる水です！",
+          "image_url": null
+        }
+      }
+    ]
+  }
+}

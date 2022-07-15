@@ -1,0 +1,9 @@
+{
+  "first_name": "RIKU",
+  "last_name": "TAKAHASHI",
+  "deliveries_summary": {
+    "unconfirmed_deliveries_count": 0,
+    "unshipped_deliveries_count": 1,
+    "shipped_deliveries_count": 0
+  }
+}

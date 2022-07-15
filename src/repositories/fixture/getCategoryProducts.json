@@ -1,0 +1,95 @@
+{
+  "category": {
+    "id": 1,
+    "name": "洗顔・クレンジング人気商品ランキング",
+    "description": "洗顔・クレンジングの人気商品ランキング"
+  },
+  "products": [
+    {
+      "id": 801,
+      "name": "ｄ　プログラム　エッセンスイン　クレンジングフォーム　（Ｊ）　（医薬部外品）",
+      "description": "肌荒れまで防ぐ　薬用クレンジングフォーム  １０日間体験トライアルサイズ\n\n肌負担が気になる肌のための薬用美容洗浄シリーズ。\nクッション泡でやさしく落とし肌荒れまで防ぐ薬用クレンジングフォームです。クリーミーでたっぷりのクッション泡がやさしく肌を包みこみ、うるおいを守りながら汚れを取り去ります。\n\n●厳選成分配合、クリーン製法\n●パラベン（防腐剤）フリー、アルコール（エチルアルコール）フリー、鉱物油フリー\n●無香料、無着色\n●低刺激設計。敏感肌の方のご協力によるパッチテスト済み*\n●スティンギングテスト済み*\n*すべての方にアレルギーや皮ふ刺激がおきないわけではありません。\n\n【内容量】20g\n\n【香り】無香料\n\n敏感肌用洗顔料\n\n【使用方法】\n●手のひらに約２ｃｍをとり、少量の水かぬるま湯を加えてしっかりと泡立てます。顔全体を泡で包みこむように洗った後、ていねいに洗い流します。\n\n◇商品に記載されている注意表示をよく読んでからお使いください。\n\n【ご購入前に】\n※ご使用のパソコン、スマートフォンのモニター環境により、カラーが実物と若干異なる場合がありますので、ご了承ください。\n※商品パッケージが予告なく変更となり、商品画像と異なる場合があります。\n※成分表記は、商品の改良や表示方法などの変更により、実際の成分と一部異なる場合があります。実際の成分は商品の表示をご覧ください。\n※原産国は予告なく変更になる場合があります。実際の原産国は商品の表示をご覧ください。",
+      "has_size": false,
+      "has_variety": true,
+      "variety_count": 5,
+      "image_urls": [
+        "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75",
+        "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75",
+        "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75"
+      ],
+      "unit": {
+        "id": 763,
+        "stock": 5,
+        "size": null,
+        "price": 511,
+        "original_price": 550,
+        "discount_rate": 7,
+        "variety_kind": null,
+        "variety": null,
+        "name": "",
+        "image_urls": null,
+        "variety_image": null
+      }
+    },
+    {
+      "id": 802,
+      "name": "ｄ　プログラム　エッセンスイン　クレンジングフォーム　（Ｊ）　（医薬部外品）",
+      "description": "肌荒れまで防ぐ　薬用クレンジングフォーム  １０日間体験トライアルサイズ\n\n肌負担が気になる肌のための薬用美容洗浄シリーズ。\nクッション泡でやさしく落とし肌荒れまで防ぐ薬用クレンジングフォームです。クリーミーでたっぷりのクッション泡がやさしく肌を包みこみ、うるおいを守りながら汚れを取り去ります。\n\n●厳選成分配合、クリーン製法\n●パラベン（防腐剤）フリー、アルコール（エチルアルコール）フリー、鉱物油フリー\n●無香料、無着色\n●低刺激設計。敏感肌の方のご協力によるパッチテスト済み*\n●スティンギングテスト済み*\n*すべての方にアレルギーや皮ふ刺激がおきないわけではありません。\n\n【内容量】20g\n\n【香り】無香料\n\n敏感肌用洗顔料\n\n【使用方法】\n●手のひらに約２ｃｍをとり、少量の水かぬるま湯を加えてしっかりと泡立てます。顔全体を泡で包みこむように洗った後、ていねいに洗い流します。\n\n◇商品に記載されている注意表示をよく読んでからお使いください。\n\n【ご購入前に】\n※ご使用のパソコン、スマートフォンのモニター環境により、カラーが実物と若干異なる場合がありますので、ご了承ください。\n※商品パッケージが予告なく変更となり、商品画像と異なる場合があります。\n※成分表記は、商品の改良や表示方法などの変更により、実際の成分と一部異なる場合があります。実際の成分は商品の表示をご覧ください。\n※原産国は予告なく変更になる場合があります。実際の原産国は商品の表示をご覧ください。",
+      "has_size": false,
+      "has_variety": false,
+      "variety_count": 5,
+      "image_urls": [
+        "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75",
+        "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75",
+        "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75"
+      ],
+      "unit": {
+        "id": 763,
+        "stock": 5,
+        "size": null,
+        "price": 511,
+        "original_price": 550,
+        "discount_rate": 7,
+        "variety_kind": null,
+        "variety": null,
+        "name": "",
+        "image_urls": null,
+        "variety_image": null
+      }
+    },
+    {
+      "id": 803,
+      "name": "ｄ　プログラム　エッセンスイン　クレンジングフォーム　（Ｊ）　（医薬部外品）",
+      "description": "肌荒れまで防ぐ　薬用クレンジングフォーム  １０日間体験トライアルサイズ\n\n肌負担が気になる肌のための薬用美容洗浄シリーズ。\nクッション泡でやさしく落とし肌荒れまで防ぐ薬用クレンジングフォームです。クリーミーでたっぷりのクッション泡がやさしく肌を包みこみ、うるおいを守りながら汚れを取り去ります。\n\n●厳選成分配合、クリーン製法\n●パラベン（防腐剤）フリー、アルコール（エチルアルコール）フリー、鉱物油フリー\n●無香料、無着色\n●低刺激設計。敏感肌の方のご協力によるパッチテスト済み*\n●スティンギングテスト済み*\n*すべての方にアレルギーや皮ふ刺激がおきないわけではありません。\n\n【内容量】20g\n\n【香り】無香料\n\n敏感肌用洗顔料\n\n【使用方法】\n●手のひらに約２ｃｍをとり、少量の水かぬるま湯を加えてしっかりと泡立てます。顔全体を泡で包みこむように洗った後、ていねいに洗い流します。\n\n◇商品に記載されている注意表示をよく読んでからお使いください。\n\n【ご購入前に】\n※ご使用のパソコン、スマートフォンのモニター環境により、カラーが実物と若干異なる場合がありますので、ご了承ください。\n※商品パッケージが予告なく変更となり、商品画像と異なる場合があります。\n※成分表記は、商品の改良や表示方法などの変更により、実際の成分と一部異なる場合があります。実際の成分は商品の表示をご覧ください。\n※原産国は予告なく変更になる場合があります。実際の原産国は商品の表示をご覧ください。",
+      "has_size": false,
+      "has_variety": false,
+      "variety_count": 5,
+      "image_urls": [
+        "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75",
+        "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75",
+        "http://localhost:8080/_next/image?url=http%3A%2F%2Flocalhost%3A3000%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--622af7b784a7754294418f0bbc4f98a99a0c0f50%2F60736692b_15634_d_500.jpg&w=750&q=75"
+      ],
+      "unit": {
+        "id": 763,
+        "stock": 5,
+        "size": null,
+        "price": 511,
+        "original_price": 550,
+        "discount_rate": 7,
+        "variety_kind": null,
+        "variety": null,
+        "name": "",
+        "image_urls": null,
+        "variety_image": null
+      }
+    }
+  ],
+  "pagenation": {
+    "total_count": 4353,
+    "limit_value": 24,
+    "total_pages": 182,
+    "current_page": 1,
+    "previous_page": null,
+    "next_page": 2
+  }
+}

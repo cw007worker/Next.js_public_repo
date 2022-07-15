@@ -1,0 +1,138 @@
+{
+  "featured_tags": [
+    {
+      "id": 15,
+      "name": "今日の祭り",
+      "image_url": "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--828604dc69cbd95945fed173d823e29b40fa4270/60702994b_39_d_500.jpg"
+    },
+    {
+      "id": 10,
+      "name": "サンプル",
+      "image_url": "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--828604dc69cbd95945fed173d823e29b40fa4270/60702994b_39_d_500.jpg"
+    }
+  ],
+  "timesale_tags": [
+    {
+      "id": 20,
+      "name": "フェア云々",
+      "campaign": {
+        "start_at": "December 17, 2021 03:24:00",
+        "end_at": "December 25, 2021 03:00:00",
+        "is_held": true
+      },
+      "units": [
+        {
+          "id": 2,
+          "name": null,
+          "stock": 14,
+          "size": null,
+          "price": 1000,
+          "original_price": 10000,
+          "discount_rate": 90,
+          "purchase_route": "parallel_import",
+          "variety": null,
+          "variety_kind": null,
+          "variety_image": null,
+          "is_default": true,
+          "image_urls": null,
+          "product": {
+            "id": 1,
+            "name": "商品名",
+            "brand_name": "Dior",
+            "description": "この商品はすごい",
+            "has_size": false,
+            "has_variety": false,
+            "image_urls": [
+              "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--828604dc69cbd95945fed173d823e29b40fa4270/60702994b_39_d_500.jpg"
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "name": "ピンク/サイズS",
+          "stock": 14,
+          "size": "S",
+          "price": 1000,
+          "original_price": 10000,
+          "discount_rate": 90,
+          "purchase_route": "parallel_import",
+          "variety": "ピンク",
+          "variety_kind": "color",
+          "variety_image": null,
+          "is_default": false,
+          "image_urls": [
+            "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--828604dc69cbd95945fed173d823e29b40fa4270/60702994b_39_d_500.jpg"
+          ],
+          "product": {
+            "id": 1,
+            "name": "ディオール バックステージ アイ パレット",
+            "brand_name": "Dior",
+            "description": "この商品は割とすごい",
+            "has_size": true,
+            "has_variety": true,
+            "image_urls": [
+              "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--828604dc69cbd95945fed173d823e29b40fa4270/60702994b_39_d_500.jpg"
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "name": "ピンク/サイズS",
+          "stock": 14,
+          "size": "S",
+          "price": 1000,
+          "original_price": 10000,
+          "discount_rate": 90,
+          "purchase_route": "parallel_import",
+          "variety": "ピンク",
+          "variety_kind": "color",
+          "variety_image": null,
+          "is_default": false,
+          "image_urls": [
+            "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--828604dc69cbd95945fed173d823e29b40fa4270/60702994b_39_d_500.jpg"
+          ],
+          "product": {
+            "id": 1,
+            "name": "ディオール バックステージ アイ パレット",
+            "brand_name": "Dior",
+            "description": "この商品は割とすごい",
+            "has_size": true,
+            "has_variety": true,
+            "image_urls": [
+              "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--828604dc69cbd95945fed173d823e29b40fa4270/60702994b_39_d_500.jpg"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "category_tags": [
+    {
+      "id": 21,
+      "name": "今週の人気商品",
+      "description": "多色パレットが人気",
+      "image_urls": [
+        "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--828604dc69cbd95945fed173d823e29b40fa4270/60702994b_39_d_500.jpg",
+        "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--828604dc69cbd95945fed173d823e29b40fa4270/60702994b_39_d_500.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "今週の人気商品",
+      "description": "多色パレットが人気",
+      "image_urls": [
+        "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--828604dc69cbd95945fed173d823e29b40fa4270/60702994b_39_d_500.jpg",
+        "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--828604dc69cbd95945fed173d823e29b40fa4270/60702994b_39_d_500.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "今週の人気商品",
+      "description": "多色パレットが人気",
+      "image_urls": [
+        "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--828604dc69cbd95945fed173d823e29b40fa4270/60702994b_39_d_500.jpg",
+        "http://localhost:3000/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--828604dc69cbd95945fed173d823e29b40fa4270/60702994b_39_d_500.jpg"
+      ]
+    }
+  ]
+}

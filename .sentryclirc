@@ -1,0 +1,5 @@
+[defaults]
+project=pantrii-webclient
+org=parchie-inc
+[auth]
+token=c36805710141494c826de7786def3a36c2cbbda04ed7447f933ac1b3e096ffba
