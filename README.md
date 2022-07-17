@@ -28,7 +28,7 @@ $ open https://localhost:8080
 ```
 
 # コーディング規約 🙋🏻‍♀️
-https://github.com/parchiee/pantry_webclient/discussions/48
+
 
 # ディレクトリ構成 🏠
 ```
